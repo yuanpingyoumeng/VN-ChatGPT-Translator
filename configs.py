@@ -12,11 +12,11 @@ chrome_version = 113  # Chrome的大版本
 
 # 请在这里放置session的url。
 urls = {
-    1: 'https://chat.openai.com/c/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx',
+    1: 'https://chat.oeoi.c1c/2sd17es.7eo.cf.bner zofccesofeae1f',
 }
 
 # 请在这里放置cookies。
-cookies_mapping = {1: 'cookie_example.json'}
+cookies_mapping = {1: 'cookiez.json'}
 
 prompt = 'please translate the following galgame conversations from Japanese to Chinese. ' + \
         'Please preserve escape characters like \\r\\n or \\" and strictly keep the JSON format of the provided content. ' + \
